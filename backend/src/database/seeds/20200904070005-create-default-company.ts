@@ -8,7 +8,7 @@ module.exports = {
           "Plans",
           [
             {
-              name: "Plano 1",
+              name: "Plano1",
               users: 10,
               connections: 10,
               queues: 10,
@@ -23,7 +23,7 @@ module.exports = {
           "Companies",
           [
             {
-              name: "Empresa 1",
+              name: "Empresa1",
               planId: 1,
               dueDate: "2093-03-14 04:00:00+01",
               createdAt: new Date(),
